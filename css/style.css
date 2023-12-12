@@ -18,13 +18,13 @@ h1 {
 button {
     width: 250px;
     height: 80px;
-    background-color: rgb(91, 162, 184);
+    background-color: rgb(80, 133, 150);
     color: #5614f1;
 }
 
 p{
     font-size: 35px;
-    color: #029af8;
+    color: #008ce4;
 }
 
 button:hover{

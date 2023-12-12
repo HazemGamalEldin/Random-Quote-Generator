@@ -1,0 +1,32 @@
+body{
+    padding: 0;
+    margin: 8px;
+    box-sizing: border-box;
+    background-color: #d4daec;
+}
+
+.center{
+text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+    color: #5F6F52;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: rgb(91, 162, 184);
+    color: #5614f1;
+}
+
+p{
+    font-size: 35px;
+    color: #029af8;
+}
+
+button:hover{
+    background-color: #635bb1;
+}
